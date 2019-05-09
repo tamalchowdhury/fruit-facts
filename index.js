@@ -5,7 +5,7 @@
 // Dependencies
 const http = require('http');
 const url = require('url');
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 const { fruits, fruitFacts } = require('./data');
 
 // Simple HTTP server
