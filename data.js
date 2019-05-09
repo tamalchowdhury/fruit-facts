@@ -92,5 +92,6 @@ exports.fruits = [
   'watermelon',
   'mango',
   'pineapple',
-  'passion'
+  'passion',
+  'strawberry'
 ];
