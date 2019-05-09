@@ -53,4 +53,6 @@ mango,
 
 pineapple,
 
-passion
+passion,
+
+strawberry

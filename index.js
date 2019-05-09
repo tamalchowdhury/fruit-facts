@@ -64,7 +64,7 @@ handlers.fruit = function(slug, callback) {
 handlers.help = function(slug, callback) {
   callback(200, {
     info: 'Try searching fruits like /apple',
-    fruits: `${fruits.map((fruit) => ' ' + fruit)}`,
+    fruits: fruits,
     tip: 'There are more than one fact per fruit'
   });
 };
