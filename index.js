@@ -36,7 +36,7 @@ const server = http.createServer(function(req, res) {
 });
 
 // Run the server
-server.listen(5000, function() {
+server.listen(PORT, function() {
   console.log('We have a server running on PORT:', PORT);
 });
 
