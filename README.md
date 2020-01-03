@@ -1,6 +1,10 @@
 # Fruit Facts API
 
-Enter a fruit as the url slug and see a random fruit fact displayed as json.
+Enter a fruit as the url slug and see a random fruit fact displayed as json. [See the blog post: Fruit Ninja Random Fruit Facts API Built with Pure Node.js](https://tamalweb.com/fruit-ninja-facts)
+
+Run it on your computer:
+
+`node index.js`
 
 Example:
 
